@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "list_tanamen",
+  "info": {
+    "singularName": "list-tanaman",
+    "pluralName": "list-tanamen",
+    "displayName": "list_tanaman"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "namaTanaman": {
+      "type": "string"
+    },
+    "deskripsi": {
+      "type": "text"
+    }
+  }
+}
